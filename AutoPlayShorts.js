@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AutoPLay Shorts
+// @name         AutoPlay Shorts
 // @author       Alimsoftware
 // @namespace    https://raw.githubusercontent.com/Alimsoftware/ScriptsTM/refs/heads/main/AutoPlayShorts.js
 // @version      1.0
