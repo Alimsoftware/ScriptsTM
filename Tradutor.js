@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tradutor de Sites
 // @author       Alimsoftware
-// @namespace    https://
+// @namespace    https://raw.githubusercontent.com/Alimsoftware/ScriptsTM/refs/heads/main/Tradutor.js
 // @description  Adicione um ícone do Google Tradutor no canto inferior direito (pode ser ajustado para o canto inferior esquerdo) de cada página não portuguesa, chamando diretamente a interface de tradução do Google para traduzir páginas da web que não sejam em português.
 // @version      1.0
 // @license      BSD-3-Clause
