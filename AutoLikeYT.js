@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Autolike YouTube Melhorado
-// @namespace    
+// @namespace    https://raw.githubusercontent.com/Alimsoftware/ScriptsTM/refs/heads/main/AutoLikeYT.js
 // @version      1.0
 // @description  Curte automaticamente vídeos do YouTube se você estiver inscrito no canal do autor ou se a opção de curtir todos os vídeos estiver ativada.
 // @author       Alimsoftware
