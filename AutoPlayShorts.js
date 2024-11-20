@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoPLay Shorts
 // @author       Alimsoftware
-// @namespace    http://tampermonkey.net/
+// @namespace    https://raw.githubusercontent.com/Alimsoftware/ScriptsTM/refs/heads/main/AutoPlayShorts.js
 // @version      1.0
 // @description  YouTube Shorts autosplays next video after a video finished
 // @match        *://www.youtube.com/*
